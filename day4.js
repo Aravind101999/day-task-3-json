@@ -11,7 +11,7 @@ JSON.stringify(obj1) === JSON.stringify(obj2);
 
 ////      question 2 ////
 
-/////    display all the country flags /////
+/////    display all the country flags //////
 
 
 var request=new XMLHttpRequest();
